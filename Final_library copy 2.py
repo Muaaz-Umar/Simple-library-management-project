@@ -298,6 +298,7 @@ def admin_view_borrowed_books():
             id_label = tk.Label(view_window, text=f"User ID: {user_id}")
             name_label = tk.Label(view_window, text=f"User Name: {user_name}")
             book_label.pack()
+
             id_label.pack()
             name_label.pack()
     else:
