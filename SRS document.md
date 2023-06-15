@@ -65,6 +65,6 @@ The Library Management System is a software application designed to automate and
 
 ## 7. References
 
-- [Library Management System Project Proposal]()
-- [Tkinter Documentation](link-to-tkinter-docs)
-- [MySQL Documentation](link-to-mysql-docs)
+- [Library Management System Project Proposal](https://github.com/Muaaz-Umar/Simple-library-management-project)
+- [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+- [MySQL Documentation](https://dev.mysql.com/doc/connector-python/en/)
